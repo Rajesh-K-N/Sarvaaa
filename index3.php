@@ -4,7 +4,7 @@ ini_set('display_errors', 1);
 include "header.php";
 ?>
 
-<?php include "header.php"; ?>
+<link rel="icon" type="image/x-icon" href="favicon.ico">
 
 <style>
     /* Apply animations */

@@ -8,6 +8,8 @@ include "dbconnection.php" ;
 
 <html>
 	<head>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+
 		<title>SARVA - Namavrigagi</title>
 <!--<style>
 	@font-face {
